@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "Cloudinary npm implementation",
   "dependencies": {
-    "jquery": ">=1.6",
-    "blueimp-file-upload": ">=7.2.1"
+    "blueimp-file-upload": ">=7.2.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "jquery": ">=1.6"
   },
-  "main": "js/jquery.cloudinary.js",
+  "main": "dist/main.js",
   "devDependencies": {
     "lodash": "~3.6.x",
     "jasmine": "~2.2.x"
