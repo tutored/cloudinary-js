@@ -1,5 +1,5 @@
 {
-  "name": "cloudinary_js",
+  "name": "cloudinary-js",
   "version": "1.0.0",
   "description": "Cloudinary npm implementation",
   "dependencies": {
