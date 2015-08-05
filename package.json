@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tutored/cloudinary_js.git"
+    "url": "git+https://github.com/tutored/cloudinary-js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tutored/cloudinary_js/issues"
+    "url": "https://github.com/tutored/cloudinary-js/issues"
   },
-  "homepage": "https://github.com/tutored/cloudinary_js#readme"
+  "homepage": "https://github.com/tutored/cloudinary-js#readme"
 }
