@@ -4,6 +4,7 @@
   "description": "Cloudinary npm implementation",
   "dependencies": {
     "blueimp-file-upload": ">=7.2.1",
+    "del": "^1.2.0",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
     "jquery": ">=1.6"
